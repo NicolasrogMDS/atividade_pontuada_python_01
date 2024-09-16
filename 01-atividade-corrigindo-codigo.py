@@ -64,7 +64,7 @@ media_dos_pares = calcular_media(lista_pares)
 media_dos_impares = calcular_media(lista_impares)
 
 # Imprimindo as estatísticas
-print("\nEstatísticas dos números:")
+print("\nExibindo dados:")
 print(f"Quantidade de números inseridos: {QUANTIDADE_NUMEROS}")
 print(f"Quantidade de pares: {quantidade_pares}")
 print(f"Quantidade de ímpares: {quantidade_impares}")
