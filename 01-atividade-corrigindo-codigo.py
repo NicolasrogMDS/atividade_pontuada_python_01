@@ -1,4 +1,5 @@
 """
+Exibir:
 1. A quantidade de números pares e ímpares.
 2. A quantidade de números positivos e negativos.
 3. A quantidade de números inseridos.
